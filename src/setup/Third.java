@@ -7,3 +7,5 @@ public class Third {
 }
 
 
+// This is our Third class
+
